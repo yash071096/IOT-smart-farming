@@ -1,5 +1,5 @@
 # IOT-soil moisture monitoring 
-Smart farming project using IOT, implemented on Arduino IDE
+Soil moisture sensing and monitoring project using IOT, implemented on Arduino IDE
 
 //Code
 
